@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi there! I'm a computer science student, passionate about solving puzzles and learning new stuff, I'm also brand new to this field, nevertheless eager to grow in the world of software development.
+Hi there! I'm a computer science undergraduate, passionate about solving puzzles and learning new stuff, I'm also brand new to this field, nevertheless eager to grow in the world of software development.
 
 ### What I'm Learning
 
@@ -13,6 +13,7 @@ Hi there! I'm a computer science student, passionate about solving puzzles and l
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ### What you'll find in here
